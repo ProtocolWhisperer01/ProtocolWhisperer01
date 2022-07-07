@@ -1,7 +1,7 @@
 <div id="header" align="center">
            <center>
            <img src="https://media.giphy.com/media/MDb3XyNxoa3Yy7BpPr/giphy.gif" alt="centered image" width="125"/>
-           <center/>
+           </center>
 <div id="badges">
 
 <a href=" www.linkedin.com/in/ernest-odhiambo-6475a2161">
@@ -9,13 +9,13 @@
 </a>
 <a href="your-youtube-URL">
 <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-<a/>
+</a>
 
-<div/>
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=ProtocolWhisperer01&style=flat-square&color=blue" alt=""/>
 
-<div/>
+</div>
 
 <!--
 **ProtocolWhisperer01/ProtocolWhisperer01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
