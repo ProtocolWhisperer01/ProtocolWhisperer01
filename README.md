@@ -17,4 +17,13 @@
 
 </div>
 
+----
+
+### 👨‍💻 About me:
+
+###### I'm a network, cybersecurity and clould computing connoissuer.
+
+###### In addition, I'm deeply enthralled in electronics and robotics in my spare time.
+
+###### Currently, I'm mastering the following scripting languages and tools ⚒️:
 
