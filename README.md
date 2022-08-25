@@ -7,7 +7,7 @@
 <a href=" www.linkedin.com/in/ernest-odhiambo-6475a2161">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="your-youtube-URL">
+<a href="https://medium.com/@protocolwhodis01">
 <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
 </a>
 
